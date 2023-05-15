@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jaybird456
-- 👀 I’m interested in low level programming 
-- 🌱 I’m currently learning Java, C, and Rust. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning mySQL.
 
 <!---
 Jaybird456/Jaybird456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
